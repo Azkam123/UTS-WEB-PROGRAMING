@@ -22,6 +22,11 @@ $links = [
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
 <body>
-    
+<div class="container">
+    <h1><?php echo $title; ?></h1>
+    <img src="foto.jpg" alt="Foto Profil" class="profile-pic">
+    <h2>Nama: <?php echo $name; ?></h2>
+    <p><?php echo $description; ?></p>
+    </div>
 </body>
 </html>

@@ -36,5 +36,6 @@ $links = [
 
     <button onclick="changeBackgroundColor()">Click jika ingin mengubah warna</button>
     </div>
+    <script src="script.js"></script>
 </body>
 </html>

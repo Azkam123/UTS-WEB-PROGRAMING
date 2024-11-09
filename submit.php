@@ -1,3 +1,5 @@
+<!-- * untuk mengeksekusi server harus di file main.php -->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>

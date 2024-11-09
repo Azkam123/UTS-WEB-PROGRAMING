@@ -27,6 +27,14 @@ $links = [
     <img src="foto.jpg" alt="Foto Profil" class="profile-pic">
     <h2>Nama: <?php echo $name; ?></h2>
     <p><?php echo $description; ?></p>
+    <h3>Tautan Sosial Media</h3>
+    <ul class="social-links">
+        <li><a href="<?php echo $links['tiktok']; ?>" target="_blank"><i class="fab fa-tiktok"></i> TikTok</a></li>
+        <li><a href="<?php echo $links['youtube']; ?>" target="_blank"><i class="fab fa-youtube"></i> YouTube</a></li>
+        <li><a href="<?php echo $links['instagram']; ?>" target="_blank"><i class="fab fa-instagram"></i> Instagram</a></li>
+    </ul>
+
+    <button onclick="changeBackgroundColor()">Click jika ingin mengubah warna</button>
     </div>
 </body>
 </html>

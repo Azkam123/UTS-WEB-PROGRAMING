@@ -56,3 +56,15 @@ button:hover {
 button:active {
     transform: scale(1);
 }
+
+.social-links a .fa-tiktok {
+    color: #000303;
+}
+
+.social-links a .fa-youtube {
+    color: #FF0000;
+}
+
+.social-links a .fa-instagram {
+    color: #E1306C;
+}

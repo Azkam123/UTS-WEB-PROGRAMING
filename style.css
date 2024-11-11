@@ -76,3 +76,17 @@ button:active {
     align-items: center;
     color: #f00707;
 }
+
+.social-links a i {
+    margin-right: 8px; 
+}
+
+.social-links li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.social-links {
+    list-style-type: none;
+    padding: 0;
+}

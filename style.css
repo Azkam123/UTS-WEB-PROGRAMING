@@ -68,3 +68,11 @@ button:active {
 .social-links a .fa-instagram {
     color: #E1306C;
 }
+
+.social-links a {
+    text-decoration: none;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    color: #f00707;
+}

@@ -90,3 +90,10 @@ button:active {
     list-style-type: none;
     padding: 0;
 }
+
+.profile-pic {
+    width: 150px; 
+    height: 150px; 
+    object-fit: cover; 
+    border-radius: 50%;
+}
